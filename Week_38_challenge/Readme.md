@@ -106,7 +106,7 @@ I used two percentage variables:
 
 This ensures that even when achievement exceeds 100%, the ring remains complete while the actual percentage is displayed.
 
-### 📸 Screenshot – SVG Donut Chart
+###  Screenshot – SVG Donut Chart
 
 ![SVG Donut Chart](Screenshot/svg.png)
 
