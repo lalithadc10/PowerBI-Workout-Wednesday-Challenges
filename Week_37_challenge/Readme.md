@@ -177,6 +177,3 @@ Challenges like these encourage me to think beyond the obvious solution, experim
 | Approaches | Native Feature & DAX Measure |
 | Tool | Power BI Desktop |
 
----
-
-**Happy Learning! **
