@@ -65,8 +65,6 @@ For the second approach, I wanted to achieve the same result using DAX.
 Instead of relying on native conditional formatting, I created a measure using `SELECTEDVALUE()` and `SWITCH()`.
 
 **DAX Measure:**
-
-```DAX
 Guac Icon =
 VAR _Answer =
     SELECTEDVALUE('Guacamole Data'[Answer])
