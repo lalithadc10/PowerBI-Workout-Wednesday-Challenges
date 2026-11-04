@@ -79,6 +79,7 @@ RETURN
         "No", UNICHAR(10060),
         BLANK()
     )
+
 ### How the DAX Measure Works
 
 - `SELECTEDVALUE()` retrieves the answer applicable to the current Matrix cell.
