@@ -40,7 +40,7 @@ Formula 1 Standings Dataset
 
 ### 1. Fastest Lap Per Race
 
-```dax
+dax
 Fastest Lap per Race =
 
 VAR _CurrentRace =
@@ -55,7 +55,6 @@ VAR _FastestLapThisRace =
         )
 
     )
-
 
 ##  Visualisation Techniques
 
