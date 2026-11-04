@@ -101,7 +101,7 @@ RETURN
 
 ### Guacamole Icon Matrix – Native Feature vs DAX
 
-![Guacamole Icon Matrix - Workout Wednesday Week 37](Screenshots/icon_matrix.png)
+![Guacamole Icon Matrix - Workout Wednesday Week 37](Screenshot/icon_matrix.png)
 
 **Left:** Native Power BI conditional formatting.
 
