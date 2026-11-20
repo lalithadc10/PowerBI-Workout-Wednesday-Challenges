@@ -10,18 +10,11 @@ Instead of presenting only sales figures, this challenge focuses on combining to
 
 ---
 
-##  Dataset
+##  Challenge Reference
 
-**Dataset:** Harvest Hollow Farm – Pumpkin Sales
-
-The dataset contains pumpkin sales information across seven seasons, from 2019 to 2025.
-
-The dataset was used to analyse:
-
-- Annual pumpkin sales
-- Previous year's sales
-- Year-over-Year growth
-- Sales growth and decline patterns
+- **Challenge:** [WOW Challenge – Week 46: One Bar, Two Stories – The Total and the Trend](https://www.workout-wednesday.com/)
+- **Challenge Author:** Santhanalakshmi Ponnurasan
+- **Platform:** Workout Wednesday
 
 ---
 
@@ -172,13 +165,9 @@ The pumpkin sales data revealed interesting year-over-year performance patterns.
 
 ---
 
-##  Final Output
+## 📸 Final Dashboard
 
-The final report combines annual pumpkin sales, previous-year comparisons and YoY growth indicators in a butterfly-style layout.
-
-The objective was to make sales comparisons easier to interpret while keeping the visual simple and focused.
-
----
+![Pumpkin Sales Butterfly Chart](PBIX/pumpkin sales.png)
 
 ##  My Takeaway
 
