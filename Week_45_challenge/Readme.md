@@ -167,7 +167,7 @@ The pumpkin sales data revealed interesting year-over-year performance patterns.
 
 ## 📸 Final Dashboard
 
-![Pumpkin Sales Butterfly Chart](PBIX/pumpkin sales.png)
+![Pumpkin Sales Butterfly Chart](PBIX/pumpkinsales.png)
 
 ##  My Takeaway
 
